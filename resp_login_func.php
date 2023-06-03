@@ -10,7 +10,7 @@ if ($result->num_rows > 0) {   /*saída de dados de cada coluna */
     header("location: principal_func.php");
 } else {
     $_SESSION['erro'] = "Erro ao tentar fazer Login!";
-    header("location: erro_loguin.php");
+    header("location: erro_login.php");
 }
 $conn->close();
 ?>
