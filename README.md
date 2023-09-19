@@ -5,4 +5,5 @@
 - Projeto em parceria com a discente **Andressa K. P. Souto**.
 - Orientador: **Prof. Dr. Israel Aires Costa Leal**.
 - Período: 2021.2
+- Linguagens utilizadas: HTML, CSS, PHP.
 - [Relatório Completo](https://github.com/carolcordeiro/Sistema-Bibliotecario/blob/ad838cf57dcc641d36f3a70f8d4d1e6828293e66/Relat%C3%B3rio%20Projeto%20Integrador.pdf).  
